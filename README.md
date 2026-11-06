@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://relevo.webtrader.trade/">🔗 Presentación del proyecto</a> ·
-  <a href="https://webtrader.trade/relevo/">🌐 Página de la app</a>
+  <a href="https://relevo.webtrader.trade">🔗 Sitio del proyecto</a> ·
+  <a href="https://webtrader.trade/relevo/">👥 Página para usuarios</a>
 </p>
 
-> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (funciones, arquitectura y capturas) para portafolio. El código está disponible bajo solicitud en una entrevista.
+> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, funciones, capturas) para portafolio. El código está disponible bajo solicitud en una entrevista.
 
 ---
 
