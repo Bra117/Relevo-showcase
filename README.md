@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://relevo-presentacion.vercel.app/">🔗 Presentación del proyecto</a> ·
+  <a href="https://relevo.webtrader.trade/">🔗 Presentación del proyecto</a> ·
   <a href="https://webtrader.trade/relevo/">🌐 Página de la app</a>
 </p>
 
